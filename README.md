@@ -20,9 +20,11 @@ S2A - Sentinel 2A (Sentinel Hub)
 The following are the file structures in Arctic-SeaIce-Extent Repository:
 
 - README (this file)
-- NSIDC-Arctic-SIE.jpynb
-- Sea_Ice_Index_Monthly_Data_by_Year_G02135_v3.0-area
-- Sea_Ice_Index_Monthly_Data_by_Year_G02135_v3.0-extent
+
+- Arctic-SIE
+    - NSIDC-Arctic-SIE.jpynb
+    - Sea_Ice_Index_Monthly_Data_by_Year_G02135_v3.0-area
+    - Sea_Ice_Index_Monthly_Data_by_Year_G02135_v3.0-extent
 
 - Local-SIE
     - Pond-Example-Image.ipynb
