@@ -3,4 +3,3 @@ This walkthrough was a demonstration of reuse of an existing jupyter notebook fr
 https://eurodatacube.com/notebooks
 
 Throughout the repurposing of the notebook - I made adjustments to the bounding box to target a sample location of interest (Pond Inlet, Nunavut, Canada). I also adjusted the dates to retrieve sample dates for my area of interest, targeting May of 2018-2023 to look at the variances of sea-ice breakup. 
-
